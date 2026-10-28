@@ -1,0 +1,69 @@
+incident_id,timestamp,barangay,street_address,zip_code,crime_category,offense_type,location_type,police_station,case_status,latitude,longitude
+NCPO-2025-0001,11/2/2025 22:45,Triangulo,Roxas Ave near commercial district,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Under Investigation,13.6248,123.1905
+NCPO-2025-0002,11/4/2025 23:18,Concepcion Pequeña,Magsaysay Ave near entertainment area,4400,Non-Index Crime,Public Disturbance,Nightclub/Bar,PS2 Concepcion Pequeña,Pending,13.6264,123.1968
+NCPO-2025-0003,11/7/2025 1:32,Centro,Elias Angeles St near public market,4400,Index Crime,Robbery,Commercial Establishment,PS1 City Hall,Under Investigation,13.6212,123.1887
+NCPO-2025-0004,11/9/2025 14:20,Dayangdang,Panganiban Drive near residential block,4400,Index Crime,Physical Injury,Public Road,PS3 Zone 5,Cleared,13.6251,123.1842
+NCPO-2025-0005,11/12/2025 2:16,Balatas,Barangay road near residential compound,4400,Non-Index Crime,Violation of RA 9165 / Illegal Drugs,Residential Area,PS6 San Felipe,Under Investigation,13.6375,123.2034
+NCPO-2025-0006,11/15/2025 23:51,Concepcion Pequeña,Magsaysay Ave near roadside eateries,4400,Non-Index Crime,Alarm and Scandal,Nightclub/Bar,PS2 Concepcion Pequeña,Pending,13.6271,123.1974
+NCPO-2025-0007,11/18/2025 9:14,Tinago,Peñafrancia Ave near church access road,4400,Index Crime,Theft,Public Road,PS1 City Hall,Cleared,13.6198,123.1931
+NCPO-2025-0008,11/21/2025 19:42,Triangulo,Roxas Ave near transport terminal,4400,Index Crime,Motorcycle Theft,Public Road,PS1 City Hall,Under Investigation,13.6257,123.1918
+NCPO-2025-0009,11/24/2025 0:27,San Felipe,Barangay road near boarding houses,4400,Non-Index Crime,Vandalism,Residential Area,PS6 San Felipe,Pending,13.6354,123.2016
+NCPO-2025-0010,11/27/2025 3:08,Carolina,Carolina access road near residential area,4400,Index Crime,Physical Injury,Public Road,PS5 Carolina,Cleared,13.6428,123.2164
+NCPO-2025-0011,12/1/2025 22:19,Centro,Elias Angeles St near retail shops,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Solved,13.6218,123.1893
+NCPO-2025-0012,12/3/2025 23:47,Triangulo,Roxas Ave near bus terminal,4400,Non-Index Crime,Public Disturbance,Public Road,PS1 City Hall,Under Investigation,13.6262,123.1926
+NCPO-2025-0013,12/6/2025 0:53,Concepcion Pequeña,Magsaysay Ave near bar entrance,4400,Index Crime,Robbery,Nightclub/Bar,PS2 Concepcion Pequeña,Pending,13.6268,123.1971
+NCPO-2025-0014,12/9/2025 11:36,Dayangdang,Panganiban Drive near convenience store,4400,Non-Index Crime,Vandalism,Commercial Establishment,PS3 Zone 5,Cleared,13.6246,123.1853
+NCPO-2025-0015,12/12/2025 2:41,Panicuason,Panicuason barangay access road,4400,Non-Index Crime,Violation of RA 9165 / Illegal Drugs,Public Road,PS5 Carolina,Under Investigation,13.6461,123.2225
+NCPO-2025-0016,12/15/2025 21:08,Balatas,Barangay road near local stores,4400,Index Crime,Motorcycle Theft,Residential Area,PS6 San Felipe,Pending,13.6382,123.2048
+NCPO-2025-0017,12/18/2025 23:26,Centro,Peñafrancia Ave near commercial frontage,4400,Non-Index Crime,Alarm and Scandal,Public Road,PS1 City Hall,Cleared,13.6204,123.1928
+NCPO-2025-0018,12/21/2025 1:17,Triangulo,Roxas Ave near shopping establishments,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Under Investigation,13.6253,123.1909
+NCPO-2025-0019,12/24/2025 22:58,Concepcion Pequeña,Magsaysay Ave near food stalls,4400,Non-Index Crime,Public Disturbance,Nightclub/Bar,PS2 Concepcion Pequeña,Pending,13.6276,123.1962
+NCPO-2025-0020,12/28/2025 16:44,San Felipe,Barangay road near residential compound,4400,Index Crime,Physical Injury,Residential Area,PS6 San Felipe,Cleared,13.6348,123.2023
+NCPO-2025-0021,1/3/2026 0:34,Centro,Elias Angeles St near public market,4400,Index Crime,Robbery,Commercial Establishment,PS1 City Hall,Under Investigation,13.6214,123.1889
+NCPO-2026-0022,1/5/2026 23:11,Triangulo,Roxas Ave near transport terminal,4400,Non-Index Crime,Public Disturbance,Public Road,PS1 City Hall,Pending,13.6259,123.1914
+NCPO-2026-0023,1/8/2026 8:52,Tinago,Peñafrancia Ave near residential access,4400,Index Crime,Theft,Residential Area,PS1 City Hall,Cleared,13.6194,123.1938
+NCPO-2026-0024,1/11/2026 2:23,Concepcion Pequeña,Magsaysay Ave near nightlife establishments,4400,Index Crime,Physical Injury,Nightclub/Bar,PS2 Concepcion Pequeña,Under Investigation,13.6269,123.1978
+NCPO-2026-0025,1/14/2026 19:31,Carolina,Carolina barangay road near local shops,4400,Index Crime,Motorcycle Theft,Public Road,PS5 Carolina,Pending,13.6419,123.2158
+NCPO-2026-0026,1/17/2026 1:09,Balatas,Barangay road near residential area,4400,Non-Index Crime,Violation of RA 9165 / Illegal Drugs,Residential Area,PS6 San Felipe,Under Investigation,13.6379,123.2041
+NCPO-2026-0027,1/20/2026 22:42,Dayangdang,Panganiban Drive near commercial shops,4400,Index Crime,Theft,Commercial Establishment,PS3 Zone 5,Solved,13.6249,123.1847
+NCPO-2026-0030,1/23/2026 23:55,Centro,Elias Angeles St near retail stores,4400,Non-Index Crime,Vandalism,Commercial Establishment,PS1 City Hall,Pending,13.6221,123.1897
+NCPO-2026-0031,1/26/2026 3:14,San Felipe,Barangay road near boarding houses,4400,Index Crime,Robbery,Residential Area,PS6 San Felipe,Under Investigation,13.6358,123.2019
+NCPO-2026-0032,1/29/2026 20:16,Triangulo,Roxas Ave near public transport stop,4400,Index Crime,Motorcycle Theft,Public Road,PS1 City Hall,Cleared,13.6265,123.1921
+NCPO-2026-0033,2/2/2026 22:36,Concepcion Pequeña,Magsaysay Ave near bars,4400,Non-Index Crime,Alarm and Scandal,Nightclub/Bar,PS2 Concepcion Pequeña,Pending,13.6273,123.1969
+NCPO-2026-0034,2/5/2026 0:48,Centro,Peñafrancia Ave near commercial area,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Under Investigation,13.6208,123.1924
+NCPO-2026-0035,2/8/2026 15:27,Dayangdang,Panganiban Drive near intersection,4400,Index Crime,Physical Injury,Public Road,PS3 Zone 5,Cleared,13.6242,123.1851
+NCPO-2026-0036,2/11/2026 2:57,Panicuason,Panicuason access road near upland settlement,4400,Non-Index Crime,Violation of RA 9165 / Illegal Drugs,Public Road,PS5 Carolina,Under Investigation,13.6472,123.2241
+NCPO-2026-0037,2/14/2026 23:09,Triangulo,Roxas Ave near commercial center,4400,Index Crime,Robbery,Commercial Establishment,PS1 City Hall,Pending,13.6256,123.1911
+NCPO-2026-0038,2/17/2026 21:46,Balatas,Barangay road near residential homes,4400,Non-Index Crime,Vandalism,Residential Area,PS6 San Felipe,Cleared,13.6386,123.2038
+NCPO-2026-0039,2/20/2026 0:19,Concepcion Pequeña,Magsaysay Ave near roadside restaurants,4400,Non-Index Crime,Public Disturbance,Nightclub/Bar,PS2 Concepcion Pequeña,Under Investigation,13.6267,123.1965
+NCPO-2026-0040,2/24/2026 12:04,Centro,Elias Angeles St near business district,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Solved,13.6216,123.1885
+NCPO-2026-0041,3/1/2026 22:53,Triangulo,Roxas Ave near transport terminal,4400,Non-Index Crime,Public Disturbance,Public Road,PS1 City Hall,Pending,13.6261,123.1917
+NCPO-2026-0042,3/4/2026 1:38,Centro,Peñafrancia Ave near commercial buildings,4400,Index Crime,Robbery,Commercial Establishment,PS1 City Hall,Under Investigation,13.6202,123.1933
+NCPO-2026-0043,3/7/2026 9:23,Tinago,Peñafrancia Ave near neighborhood shops,4400,Non-Index Crime,Vandalism,Commercial Establishment,PS1 City Hall,Cleared,13.6197,123.1929
+NCPO-2026-0044,3/10/2026 23:42,Concepcion Pequeña,Magsaysay Ave near nightlife area,4400,Index Crime,Physical Injury,Nightclub/Bar,PS2 Concepcion Pequeña,Pending,13.6278,123.1973
+NCPO-2026-0045,3/13/2026 2:06,Carolina,Carolina barangay road near residential homes,4400,Index Crime,Motorcycle Theft,Residential Area,PS5 Carolina,Under Investigation,13.6425,123.2169
+NCPO-2026-0046,3/16/2026 18:55,San Felipe,Barangay road near local convenience store,4400,Non-Index Crime,Violation of RA 9165 / Illegal Drugs,Residential Area,PS6 San Felipe,Pending,13.6351,123.2027
+NCPO-2026-0047,3/19/2026 0:37,Dayangdang,Panganiban Drive near commercial frontage,4400,Index Crime,Theft,Commercial Establishment,PS3 Zone 5,Solved,13.6248,123.1845
+NCPO-2026-0048,3/22/2026 22:14,Triangulo,Roxas Ave near retail stores,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Under Investigation,13.6254,123.1919
+NCPO-2026-0049,3/25/2026 23:29,Concepcion Pequeña,Magsaysay Ave near bar entrance,4400,Non-Index Crime,Alarm and Scandal,Nightclub/Bar,PS2 Concepcion Pequeña,Pending,13.6266,123.1976
+NCPO-2026-0030,3/28/2026 3:52,Panicuason,Panicuason upland access road,4400,Index Crime,Physical Injury,Public Road,PS5 Carolina,Under Investigation,13.6466,123.2237
+NCPO-2026-0051,4/2/2026 22:38,Centro,Elias Angeles St near commercial market,4400,Index Crime,Robbery,Commercial Establishment,PS1 City Hall,Under Investigation,13.6219,123.1891
+NCPO-2026-0052,4/5/2026 1:22,Triangulo,Roxas Ave near transport terminal,4400,Non-Index Crime,Public Disturbance,Public Road,PS1 City Hall,Pending,13.6258,123.1924
+NCPO-2026-0053,4/8/2026 10:41,Dayangdang,Panganiban Drive near residential block,4400,Index Crime,Theft,Residential Area,PS3 Zone 5,Cleared,13.6244,123.1856
+NCPO-2026-0054,4/11/2026 23:58,Concepcion Pequeña,Magsaysay Ave near entertainment venue,4400,Index Crime,Physical Injury,Nightclub/Bar,PS2 Concepcion Pequeña,Under Investigation,13.6274,123.1967
+NCPO-2026-0055,4/14/2026 2:43,Carolina,Carolina access road near local settlement,4400,Non-Index Crime,Violation of RA 9165 / Illegal Drugs,Public Road,PS5 Carolina,Pending,13.6421,123.2173
+NCPO-2026-0056,4/17/2026 20:11,Balatas,Barangay road near residential compound,4400,Index Crime,Motorcycle Theft,Residential Area,PS6 San Felipe,Under Investigation,13.6381,123.2046
+NCPO-2026-0057,4/20/2026 22:07,Centro,Peñafrancia Ave near retail shops,4400,Non-Index Crime,Vandalism,Commercial Establishment,PS1 City Hall,Cleared,13.6206,123.193
+NCPO-2026-0058,4/23/2026 0:56,Triangulo,Roxas Ave near shopping district,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Under Investigation,13.6263,123.1913
+NCPO-2026-0059,4/26/2026 23:17,Concepcion Pequeña,Magsaysay Ave near food stalls,4400,Non-Index Crime,Public Disturbance,Nightclub/Bar,PS2 Concepcion Pequeña,Pending,13.6269,123.1972
+NCPO-2026-0060,4/29/2026 13:39,San Felipe,Barangay road near residential homes,4400,Index Crime,Physical Injury,Residential Area,PS6 San Felipe,Cleared,13.6356,123.2021
+NCPO-2026-0061,5/3/2026 22:27,Centro,Elias Angeles St near public market,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Solved,13.6215,123.1888
+NCPO-2026-0062,5/6/2026 0:14,Triangulo,Roxas Ave near bus terminal,4400,Index Crime,Robbery,Public Road,PS1 City Hall,Under Investigation,13.6259,123.1916
+NCPO-2026-0063,5/9/2026 18:49,Tinago,Peñafrancia Ave near residential access road,4400,Non-Index Crime,Vandalism,Residential Area,PS1 City Hall,Pending,13.6199,123.1935
+NCPO-2026-0064,5/12/2026 23:36,Concepcion Pequeña,Magsaysay Ave near nightlife establishments,4400,Non-Index Crime,Alarm and Scandal,Nightclub/Bar,PS2 Concepcion Pequeña,Under Investigation,13.6272,123.1964
+NCPO-2026-0065,5/15/2026 1:51,Carolina,Carolina barangay road near local stores,4400,Index Crime,Motorcycle Theft,Public Road,PS5 Carolina,Pending,13.6429,123.2161
+NCPO-2026-0066,5/18/2026 20:32,Balatas,Barangay road near residential area,4400,Non-Index Crime,Violation of RA 9165 / Illegal Drugs,Residential Area,PS6 San Felipe,Under Investigation,13.6376,123.2044
+NCPO-2026-0067,5/21/2026 22:46,Dayangdang,Panganiban Drive near retail establishments,4400,Index Crime,Theft,Commercial Establishment,PS3 Zone 5,Solved,13.6247,123.1849
+NCPO-2026-0068,5/24/2026 2:28,Panicuason,Panicuason upland access road,4400,Non-Index Crime,Public Disturbance,Public Road,PS5 Carolina,Pending,13.6475,123.2246
+NCPO-2026-0069,5/27/2026 23:13,Triangulo,Roxas Ave near commercial center,4400,Index Crime,Robbery,Commercial Establishment,PS1 City Hall,Under Investigation,13.6264,123.191
+NCPO-2026-0070,6/2/2026 0:42,Centro,Elias Angeles St near retail stores,4400,Index Crime,Theft,Commercial Establishment,PS1 City Hall,Cleared,13.6217,123.1895
