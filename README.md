@@ -24,7 +24,7 @@ The dashboard is organised into three pages:
 
 ### Dashboard pages
 
-<img width="750" height="330" alt="1st" src="https://github.com/user-attachments/assets/4c3775c0-ca34-4360-9620-fb2e8666b23b" />
+<img width="750" height="330" alt="1st" src="https://github.com/shiyannn/Naga-City-Crime-Surveillance-and-Prevention/blob/main/imgs/Barangay%20Analysis.png" />
 
 
 *Page 1 — Crime Overview: 68 total incidents, 21 pending cases, top barangay (Triangulo) and top crime category (Index Crime).*
