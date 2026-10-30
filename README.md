@@ -24,17 +24,17 @@ The dashboard is organised into three pages:
 
 ### Dashboard pages
 
-<img width="750" height="330" alt="1st" src="https://github.com/shiyannn/Naga-City-Crime-Surveillance-and-Prevention/blob/main/imgs/Barangay%20Analysis.png" />
+<img width="750" height="330" alt="1st" src="https://github.com/shiyannn/Naga-City-Crime-Surveillance-and-Prevention/blob/main/imgs/Crime%20Overview.png?raw=true" />
 
 
 *Page 1 — Crime Overview: 68 total incidents, 21 pending cases, top barangay (Triangulo) and top crime category (Index Crime).*
 
-<img width="750" height="330" alt="2" src="https://github.com/user-attachments/assets/c224af9c-946d-4309-914a-2c1966fcc1d1" />
+<img width="750" height="330" alt="2" src="https://github.com/shiyannn/Naga-City-Crime-Surveillance-and-Prevention/blob/main/imgs/Barangay%20Analysis.png?raw=true" />
 
 
 *Page 2 — Barangay Analysis: hotspot map and index vs non-index crime breakdown by barangay.*
 
-<img width="750" height="330" alt="3" src="https://github.com/user-attachments/assets/2bee4dfb-68af-4e0f-9ec6-10da1912d8ab" />
+<img width="750" height="330" alt="3" src="https://github.com/shiyannn/Naga-City-Crime-Surveillance-and-Prevention/blob/main/imgs/Case%20Analysis.png?raw=true" />
 
 
 *Page 3 — Case Analysis: case status distribution, incidents vs pending cases, and incident-level records.*
